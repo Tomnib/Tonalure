@@ -1,0 +1,22 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+
+# Data/audio files
+*.mp3
+*.wav
+*.flac
+*.m4a
+
+# Spectrogram images
+*spectrogram.png
+
+# VS Code settings
+.vscode/
