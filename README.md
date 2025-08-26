@@ -18,5 +18,5 @@ This application allows users to upload a song, mark their favorite sections, an
 
 ## Running Environment
 - Create venv: python -m venv venv
-    - Run venv: venv\Scripts\activate
+    - Run venv: venv/Scripts/activate
 - Run jupiter: Project Root > [jupyter notebook]

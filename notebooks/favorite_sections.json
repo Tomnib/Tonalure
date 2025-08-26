@@ -1,0 +1,10 @@
+{
+  "file": "Disappear.mp3",
+  "sample_rate": 44100,
+  "sections": [
+    {
+      "start_sec": 0.0,
+      "end_sec": 14.0
+    }
+  ]
+}
